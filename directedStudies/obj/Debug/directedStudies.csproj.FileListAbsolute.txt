@@ -1,0 +1,19 @@
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.csprojResolveAssemblyReference.cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.csproj.directedStudies.exe.config
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.Form1.resources
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.Properties.Resources.resources
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.csproj.GenerateResource.Cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.csproj.CoreCompileInputs.cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\Debug\directedStudies.exe.config
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\Debug\directedStudies.exe
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\Debug\directedStudies.pdb
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.exe
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\Debug\directedStudies.pdb
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.csprojAssemblyReference.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.Form1.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.Properties.Resources.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.csproj.GenerateResource.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.csproj.CoreCompileInputs.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.exe
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\Debug\directedStudies.pdb

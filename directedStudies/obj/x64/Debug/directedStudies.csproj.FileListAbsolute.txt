@@ -1,0 +1,43 @@
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\directedStudies.exe
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.World.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\directedStudies.exe.config
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Antlr3.Runtime.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2012.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2013.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2015.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.DebuggerVisualizers.VS2017.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.UI.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Emgu.CV.UI.GL.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Iesi.Collections.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\log4net.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\NHibernate.ByteCode.LinFu.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\NHibernate.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\nunit.framework.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\OpenTK.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\OpenTK.GLControl.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\System.Data.SQLite.DLL
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\ZedGraph.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\ZedGraph.resources.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.exe.config
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.Form1.resources
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.Properties.Resources.resources
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.GenerateResource.cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.CoreCompileInputs.cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.CopyComplete
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.exe
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.pdb
+C:\Users\welah\source\repos\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csprojResolveAssemblyReference.cache
+C:\Users\welah\source\repos\directedStudies\directedStudies\bin\x64\Debug\directedStudies.pdb
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\bin\x64\Debug\directedStudies.exe.config
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\bin\x64\Debug\directedStudies.exe
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\bin\x64\Debug\directedStudies.pdb
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\bin\x64\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.Form1.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.Properties.Resources.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.GenerateResource.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.CoreCompileInputs.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csproj.CopyComplete
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.exe
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.pdb
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Debug\directedStudies.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Release\directedStudies.Form1.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Release\directedStudies.Properties.Resources.resources
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Release\directedStudies.csproj.GenerateResource.cache
+D:\uOttawa\Winter 2018\ELG 7199 Directed Studies\directedStudies\directedStudies\obj\x64\Release\directedStudies.csproj.CoreCompileInputs.cache
